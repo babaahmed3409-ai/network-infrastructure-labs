@@ -1,6 +1,6 @@
-## Jeremy's IT Lab - Day 11 Part 2: Configuring Static Rou[day 11 part(0)]tes
+## Jeremy's IT Lab - Day 11 Part 2: troubleshooting static routing
 
-[day 11 part 2 topology](<./day-11-part(2)-topologie.png>)
+![day 11 part 2 topology](day-11-part(2)-topologie.png)
 
 ## Objective
 
